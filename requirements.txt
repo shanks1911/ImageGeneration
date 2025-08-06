@@ -3,4 +3,5 @@ python-dotenv
 streamlit
 diffusers
 langchain_community
-torch
+pytorch
+
