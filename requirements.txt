@@ -1,4 +1,5 @@
 langchain_core
 python-dotenv
 streamlit
+diffusers
 langchain_community
